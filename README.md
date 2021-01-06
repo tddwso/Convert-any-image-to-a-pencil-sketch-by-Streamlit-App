@@ -3,7 +3,7 @@
 ## 背景介紹:
 將影像轉化成充滿藝術感的素描畫像。
 
-![image](https://github.com/tddwso/Brain-Tumor-Detection-Classifier-by-Deep-Learning/blob/main/pic2.PNG)
+![image](https://github.com/tddwso/Convert-any-image-to-a-pencil-sketch-by-Streamlit-App/blob/main/%E7%B4%A0%E6%8F%8F%E8%BD%89%E6%8F%9B%E5%9C%96.PNG)
 
 ## 預計完成目標:
 以卷積神經網絡(Convolutional Neural Network)學習分辨OK及NG品。
