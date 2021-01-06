@@ -12,7 +12,7 @@
 Python 3.8
 
 ## 實測結果
-最佳模型訓練準確度84% 
+
 
 ![image](https://github.com/tddwso/Convert-any-image-to-a-pencil-sketch-by-Streamlit-App/blob/main/%E7%B4%A0%E6%8F%8F%E8%BD%89%E6%8F%9B%E5%9C%96.PNG)
 
