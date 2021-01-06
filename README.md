@@ -1,7 +1,7 @@
 # Convert-any-image-to-a-pencil-sketch-by-Streamlit-App
 
 ## 背景介紹:
-此次為分辨腦部斷層掃描片中是否長有腦瘤。
+將影像轉化成充滿藝術感的素描畫像。
 
 ![image](https://github.com/tddwso/Brain-Tumor-Detection-Classifier-by-Deep-Learning/blob/main/pic2.PNG)
 
