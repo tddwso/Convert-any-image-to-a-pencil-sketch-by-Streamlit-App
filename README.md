@@ -18,7 +18,7 @@ Python 3.8
 
 ## 使用Streamlit App展示成果
 
-![image](https://github.com/tddwso/Convert-any-image-to-a-pencil-sketch-by-Streamlit-App/blob/main/%E7%B4%A0%E6%8F%8F%E8%BD%89%E6%8F%9B%E5%9C%96.PNG)
+![image](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/Stream%20Logo.png)
 
 Streamlit 是一個開源Python函式庫，可以快速製作Data App。
 
